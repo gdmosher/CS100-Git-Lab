@@ -1,0 +1,9 @@
+*   bace82d Solved merge conflict between userinput and master branches
+|\  
+| * aba6406 Updated README
+| * f331d93 Added user input, Updated .gitignore for *~
+* | 0203094 Fixed the return 1 bug
+|/  
+* b406608 Modified the README
+* fdf844f Add the initial main and .gitignore
+* aa0e4df My first commit
